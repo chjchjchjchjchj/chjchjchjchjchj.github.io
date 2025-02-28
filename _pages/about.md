@@ -42,7 +42,7 @@ David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue,
 
 # 📖 Educations
 - <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> *2024.09 - now*, Ph.D. student, Institute for Artificial Intelligence, Peking University. 
-- <img src="../images/PKU logo.png" alt="bjtu_logo" style="zoom:25%;" /> *2020.09 - 2024.06*, B.S., School of Mathematics and Statistics. Beijing Jiaotong University. 
+- <img src="../images/bjtu_logo.png" alt="bjtu_logo" style="zoom:25%;" /> *2020.09 - 2024.06*, B.S., School of Mathematics and Statistics. Beijing Jiaotong University. 
 
 # 💬 Services
 - Reviewer for ICML and AAAI.
