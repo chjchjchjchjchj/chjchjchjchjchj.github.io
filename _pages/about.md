@@ -21,7 +21,7 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.. 
+- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.
 
 # 📝 Publications 
 
@@ -41,6 +41,7 @@ Yifan Zhong\*, Chengdong Ma\*, Xiaoyuan Zhang\*, Ziran Yang, **Haojun Chen**, Qi
 [MANSA: Learning Fast and Slow in Multi-Agent Systems]([[https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://proceedings.neurips.cc/paper_files/paper/2024/hash/89f39d0b3d49a47606a165eefba2778c-Abstract-Conference.html](https://proceedings.mlr.press/v202/mguni23a.html)))
 
 David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue, Xidong Feng, Stephen Marcus Mcaleer, Feifei Tong, Jun Wang, Yaodong Yang
+
 </div>
 </div>
 
