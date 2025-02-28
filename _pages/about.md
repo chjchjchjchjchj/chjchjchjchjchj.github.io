@@ -42,8 +42,6 @@ Yifan Zhong\*, Chengdong Ma\*, Xiaoyuan Zhang\*, Ziran Yang, **Haojun Chen**, Qi
 
 David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue, Xidong Feng, Stephen Marcus Mcaleer, Feifei Tong, Jun Wang, Yaodong Yang
 
-</div>
-</div>
 
 # 📖 Educations
 - <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> *2024.09 - now*, Ph.D. student, Institute for Artificial Intelligence, Peking University. 
