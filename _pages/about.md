@@ -32,6 +32,9 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 
 Yifan Zhong\*, Chengdong Ma\*, Xiaoyuan Zhang\*, Ziran Yang, **Haojun Chen**, Qingfu Zhang, Siyuan Qi, Yaodong Yang
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/mansa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,10 +42,15 @@ Yifan Zhong\*, Chengdong Ma\*, Xiaoyuan Zhang\*, Ziran Yang, **Haojun Chen**, Qi
 
 David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue, Xidong Feng, Stephen Marcus Mcaleer, Feifei Tong, Jun Wang, Yaodong Yang
 
+</div>
+</div>
 
 # 📖 Educations
 - <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> *2024.09 - now*, Ph.D. student, Institute for Artificial Intelligence, Peking University. 
-- <img src="../images/bjtu_logo.png" alt="bjtu_logo" style="zoom:25%;" /> *2020.09 - 2024.06*, B.S., School of Mathematics and Statistics. Beijing Jiaotong University. 
+- <img src="../images/bjtu_logo.png" alt="bjtu_logo" style="zoom:25%;" /> *2020.09 - 2024.06*, B.S., School of Mathematics and Statistics. Beijing Jiaotong University.
+
+</div>
+</div>
 
 # 💬 Services
 - Reviewer for ICML and AAAI.
