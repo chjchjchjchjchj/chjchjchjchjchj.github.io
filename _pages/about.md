@@ -35,7 +35,7 @@ Yifan Zhong\*, Chengdong Ma\*, Xiaoyuan Zhang\*, Ziran Yang, **Haojun Chen**, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/mansa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/mansa_intro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MANSA: Learning Fast and Slow in Multi-Agent Systems](https://proceedings.mlr.press/v202/mguni23a.html)
