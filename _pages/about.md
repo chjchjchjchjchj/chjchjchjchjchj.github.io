@@ -25,6 +25,16 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Falcon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Falcon: Fast Visuomotor Policies via Partial Denoising](https://arxiv.org/abs/2503.00339)
+
+**Haojun Chen\***, Minghao Liu\*, Xiaojian Ma\*, Zailin Ma, Huimin Wu, Chengdong Ma, Yuanpei Chen, Yifan Zhong, Mingzhi Wang, Qing Li, Yaodong Yang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
