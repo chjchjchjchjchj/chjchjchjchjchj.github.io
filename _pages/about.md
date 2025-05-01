@@ -21,11 +21,12 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper gets accepted in ICML 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Falcon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Falcon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Falcon: Fast Visuomotor Policies via Partial Denoising](https://arxiv.org/abs/2503.00339)
