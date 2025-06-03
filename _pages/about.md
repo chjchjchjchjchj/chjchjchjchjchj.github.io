@@ -31,7 +31,7 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 
 [Falcon: Fast Visuomotor Policies via Partial Denoising](https://arxiv.org/abs/2503.00339)
 
-**Haojun Chen\***, Minghao Liu\*, Xiaojian Ma\*, Zailin Ma, Huimin Wu, Chengdong Ma, Yuanpei Chen, Yifan Zhong, Mingzhi Wang, Qing Li, Yaodong Yang
+**Haojun Chen\***, Minghao Liu\*, Chengdong Ma, Xiaojian Ma, Zailin Ma, Huimin Wu, Yuanpei Chen, Yifan Zhong, Mingzhi Wang, Qing Li, Yaodong Yang
 
 </div>
 </div>
