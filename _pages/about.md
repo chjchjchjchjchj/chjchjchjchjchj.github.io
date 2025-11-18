@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests include reinforcement learning, generative models, embodied AI, and AI4Science. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
+Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests include reinforcement learning, generative models, embodied AI, and AI4Science. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
 
 
 # 🔥 News
@@ -25,6 +25,17 @@ Hi, I am Haojun Chen. I am currently a first-year Ph.D. student at the Institute
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/packing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
+
+Chengdong Ma\*, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, **Haojun Chen**, Zihao Mao, Yuan Cheng, Yuan Qi, Yaodong Yang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Falcon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
