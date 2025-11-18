@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests include reinforcement learning, generative models, embodied AI, and AI4Science. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
+Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests include reinforcement learning, generative models, and their intersection with robotics and math. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
 
 
 # 🔥 News
