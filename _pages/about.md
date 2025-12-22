@@ -33,6 +33,9 @@ Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institut
 
 Chengdong Ma\*, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, **Haojun Chen**, Zihao Mao, Yuan Cheng, Yuan Qi, Yaodong Yang
 
+<b><i><span style="color:#B22222;">A breakthrough on Hilbert’s 18th problem in positive curvature by AI.</span></i></b><br>
+<b><i><span style="color:#000000;">Validated by [Henry Cohn (MIT)](https://cohn.mit.edu/kissing-numbers/), the leading mathematician in the field.</span></i></b>
+
 </div>
 </div>
 
