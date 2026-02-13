@@ -26,6 +26,20 @@ Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institut
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/agps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accelerating Robotic Reinforcement Learning with Agent Guidance](https://arxiv.org/abs/2602.11978)
+
+**Haojun Chen\***, Zili Zou\*, Chengdong Ma, Yaoxiang Pu, Haotong Zhang, Yuanpei Chen, Yaodong Yang
+
+<b><i><span style="color:#000000;">The first agent in the loop real-world reinforcement learning framework</span></i></b>
+
+<a href="https://agps-anon.github.io/agps">Project website</a> 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/packing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +64,8 @@ Chengdong Ma\*, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, **Haojun Chen**, 
 [Falcon: Fast Visuomotor Policies via Partial Denoising](https://arxiv.org/abs/2503.00339)
 
 **Haojun Chen\***, Minghao Liu\*, Chengdong Ma, Xiaojian Ma, Zailin Ma, Huimin Wu, Yuanpei Chen, Yifan Zhong, Mingzhi Wang, Qing Li, Yaodong Yang
+
+<a href="https://github.com/chjchjchjchjchj/Falcon">Code</a> 
 
 </div>
 </div>
