@@ -35,7 +35,7 @@ Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institut
 
 <b><i><span style="color:#000000;">The first agent in the loop real-world reinforcement learning framework</span></i></b>
 
-<a href="https://agps-anon.github.io/agps">Project website</a> 
+<a href="https://agps-rl.github.io/agps/">Project website</a> 
 
 </div>
 </div>
