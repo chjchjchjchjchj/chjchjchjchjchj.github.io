@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests include reinforcement learning, generative models, and their intersection with robotics and math. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
+Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests lie in the intersection of Generative Models and Reinforcement Learning. Currently, I am particularly interested in building Interactive Video World Models—generative frameworks that can generate and simulate dynamic environments with physical consistency and real-time feedback. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
+
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper gets accepted in ICRA 2026.
 - *2025.05*: &nbsp;🎉🎉 One paper gets accepted in ICML 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.
 
@@ -104,4 +106,5 @@ David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue,
 
 
 # 💬 Services
-- Reviewer for ICML and AAAI.
+- Reviewer for AAAI2025, ICML2025, ICLR2026, ICML2026.
+- Teaching Assistant for "Multi-Agent System" (2026 Spring).  <a href="https://pku-mas.com/course/26spring/"> [Website]
