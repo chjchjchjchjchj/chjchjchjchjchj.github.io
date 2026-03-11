@@ -66,6 +66,16 @@ This work has been covered by: <br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/dexknot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DexKnot: Generalizable Visuomotor Policy Learning for Dexterous Bag-Knotting Manipulation](https://arxiv.org/abs/2603.07136)
+
+Jiayuan Zhang*, Ruihai Wu*, **Haojun Chen**, Yuran Wang, Yifan Zhong, Ceyao Zhang, Yaodong Yang, Yuanpei Chen
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Falcon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
