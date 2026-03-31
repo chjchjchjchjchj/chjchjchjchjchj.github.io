@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests lie in the intersection of Generative Models and Reinforcement Learning. Currently, I am particularly interested in building Interactive Video World Models—generative frameworks that can generate and simulate dynamic environments with physical consistency and real-time feedback. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
+
+Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by [Prof. Yaodong Yang](https://www.yangyaodong.com/). My research interests lie in the intersection of World Models, Generative Models, Reinforcement Learning, and their intersection with science problems. Please do not hesitate to reach out to me via email at [chenhaojun@stu.pku.edu.cn](chenhaojun@stu.pku.edu.cn)!
 
 
 
@@ -71,7 +72,7 @@ This work has been covered by: <br>
 
 [DexKnot: Generalizable Visuomotor Policy Learning for Dexterous Bag-Knotting Manipulation](https://arxiv.org/abs/2603.07136)
 
-Jiayuan Zhang*, Ruihai Wu*, **Haojun Chen**, Yuran Wang, Yifan Zhong, Ceyao Zhang, Yaodong Yang, Yuanpei Chen
+Jiayuan Zhang\*, Ruihai Wu\*, **Haojun Chen**, Yuran Wang, Yifan Zhong, Ceyao Zhang, Yaodong Yang, Yuanpei Chen
 
 </div>
 </div>
