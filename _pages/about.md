@@ -115,6 +115,8 @@ David Henry Mguni, **Haojun Chen**, Taher Jafferjee, Jianhong Wang, Longfei Yue,
 - <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> *2024.09 - now*, Ph.D. student, Institute for Artificial Intelligence, Peking University. 
 - <img src="../images/bjtu_logo.png" alt="bjtu_logo" style="zoom:25%;" /> *2020.09 - 2024.06*, B.S., School of Mathematics and Statistics. Beijing Jiaotong University.
 
+# 💻 Internships
+- **2026.04 - now**, <a href='https://klingai.com/global/'>Kling Team</a>
 
 # 💬 Services
 - Reviewer for AAAI2025, ICML2025, ICLR2026, ICML2026.
