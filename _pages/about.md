@@ -23,9 +23,8 @@ Hi, I am Haojun Chen. I am currently a second-year Ph.D. student at the Institut
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper gets accepted in ICML 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper gets accepted in ICRA 2026.
-- *2025.05*: &nbsp;🎉🎉 One paper gets accepted in ICML 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in NeurIPS 2024.
 
 # 📝 Publications 
 
